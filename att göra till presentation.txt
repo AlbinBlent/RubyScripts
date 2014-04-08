@@ -1,0 +1,2 @@
+Används Watir fortfarande, vilka använder, varför används det inte längre,
+varför uppdateras det inte längre etc
